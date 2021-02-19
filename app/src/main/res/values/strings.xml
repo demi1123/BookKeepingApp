@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BookKeepingDemo</string>
+    <string name="editone">记一笔</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="remark">备注</string>
+    <string name="ensure">确定</string>
+    <string name="cancel">取消</string>
+
+    <string name="app_info">应用信息</string>
+    <string name="version">版本</string>
+    <string name="version_text">1.0</string>
+    <string name="app_detail">关于应用</string>
+    <string name="app_title">Android 记账APP</string>
+    <string name="developer">开发者</string>
+    <string name="about_me">关于我</string>
+    <string name="send_email">发送邮件</string>
+    <string name="email">我的个人邮箱是：imdongning@gmail.com</string>
+
+
+</resources>
